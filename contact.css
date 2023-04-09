@@ -47,12 +47,14 @@ img {
   animation: change;
   animation-duration: 10s;
   background-repeat: repeat;
+  border-radius: 5px;
 }
 #C:hover {
   background-color: hotpink;
   animation: back;
   animation-duration: 10s;
   background-repeat: repeat;
+  border-radius: 5px;
 }
 @keyframes change {
   100% {
