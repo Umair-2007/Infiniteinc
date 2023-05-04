@@ -163,6 +163,13 @@ h3 {
   height: 120px;
 
   animation: spin 2s linear infinite;
+  
+  position: absolute;
+  
+  top: 180px;
+  
+  right: 180px;
+  
 
 }
 
